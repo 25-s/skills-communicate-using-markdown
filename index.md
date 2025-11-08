@@ -4,3 +4,6 @@
 写入了一级和二级标题以及正文
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 加入了一张图片
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+var myVar = "Hello, world!";
