@@ -7,7 +7,8 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
--[ ] True on GitHub Pages
--[ ] Outline my portfolio
--[ ] Introduce myself to the world
+- [ ] True on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 
